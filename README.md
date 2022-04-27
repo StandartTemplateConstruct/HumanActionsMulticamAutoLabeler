@@ -25,4 +25,15 @@ A data set of videos
  - building chair in a wood shop
 
 
+# HumanRecorder
+An app that records actions of the wearer and set of tools to label them for ML
+
+
+## Related datasets
+
+ - https://paperswithcode.com/dataset/human3-6m
+ - https://paperswithcode.com/dataset/davis
+ - https://paperswithcode.com/dataset/ntu-rgb-d
+ - https://paperswithcode.com/dataset/jhmdb
+ - https://paperswithcode.com/dataset/youcook2
 
